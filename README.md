@@ -4,7 +4,7 @@ Repositório referente ao projeto Tryunfo
 # Objetivo do projeto
 Este projeto permite a criação de cartas do famoso jogo "Super Trunfo", podendo ser adicionadas ao baralho ou excluídas. Possui também, um filtro de busca de cartas existentes no baralho.
 
-#Funcionalidades
+# Funcionalidades
 
 O projeto contém ao seu lado esquerdo da tela um forms que possibilita o usuário alterar o conteúdo da carta ao seu modo. Conforme a carta é editada, é mostrado ao usuário um "preview", uma prévia da carta.
 
