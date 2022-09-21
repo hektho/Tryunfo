@@ -1,6 +1,7 @@
 # Tryunfo
 Repositório referente ao projeto Tryunfo
-
+<br>
+Link da aplicação: https://tryunfo-hektho.vercel.app
 # Objetivo do projeto
 Este projeto permite a criação de cartas do famoso jogo "Super Trunfo", podendo ser adicionadas ao baralho ou excluídas. Possui também, um filtro de busca de cartas existentes no baralho.
 
